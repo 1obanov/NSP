@@ -1,7 +1,7 @@
 # NSP - больше, чем бизнес!
 Please have a look at my Responsive Landing Page Website which was created for Ukrainian client.
 
-#### Live preview --> [NSP](http://nsp.ihorlobanov.info/)
+#### Live preview --> [NSP](https://1obanov.github.io/NSP/)
 
 ## Built with:
 
